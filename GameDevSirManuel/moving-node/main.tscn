@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://x1v7i7xjvhu3"]
+
+[ext_resource type="Script" uid="uid://crn7o2revoxl5" path="res://hello_label.gd" id="1_ig7tw"]
+
+[node name="Main" type="Node2D"]
+
+[node name="HelloLabel" type="Label" parent="."]
+offset_left = 161.0
+offset_top = 8.0
+offset_right = 472.0
+offset_bottom = 31.0
+text = "Hello World"
+horizontal_alignment = 1
+script = ExtResource("1_ig7tw")

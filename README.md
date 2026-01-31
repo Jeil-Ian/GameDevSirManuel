@@ -1,7 +1,8 @@
 # GameDevSirManuel
 
 
-This is my first godot project
+This is my first godot project.
+Moving "Hello World"
 
 
 

@@ -14,3 +14,4 @@ Moving "Hello World"
 # Week 2
  - ##Activity 1
 
+![Uploading Screenshot 2026-02-20 at 6.38.57 PM.png…]()

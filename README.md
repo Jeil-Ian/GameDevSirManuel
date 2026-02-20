@@ -13,4 +13,4 @@ Moving "Hello World"
 
 # Week 2
  - ##Activity 1
-Stuid bullshit 
+

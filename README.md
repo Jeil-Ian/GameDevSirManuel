@@ -1,7 +1,7 @@
 # GameDevSirManuel
 
 # Week 1
-- ##Activity 1
+- Activity 1
 This is my first godot project.
 Moving "Hello World"
 
@@ -12,7 +12,7 @@ Moving "Hello World"
 <img width="1920" height="1080" alt="Screenshot 2026-01-31 at 5 44 16 PM" src="https://github.com/user-attachments/assets/f3bec8d3-135f-4353-bda9-a25b71d7ec70" />
 
 # Week 2
- - ##Activity 1
+ - Activity 1
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bd2f36ec-7b1c-45e5-9043-a9dd0355b201" />
 

@@ -13,7 +13,7 @@ Moving "Hello World"
 
 # Week 2
  - Activity 1 <br>
- 🎮 Controls:
+ 🎮 Controls: <br>
      Movement: Arrow Keys <br>
      Jump: Spacebar <br>
      Dodge / Dash: Left Shift / Right Shift

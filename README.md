@@ -12,8 +12,9 @@ Moving "Hello World"
 <img width="1920" height="1080" alt="Screenshot 2026-01-31 at 5 44 16 PM" src="https://github.com/user-attachments/assets/f3bec8d3-135f-4353-bda9-a25b71d7ec70" />
 
 # Week 2
-<pre>
+
  - Activity 1 <br>
+ <pre>
 🎮 Controls: <br>
      Movement: Arrow Keys <br>
      Jump: Spacebar <br>

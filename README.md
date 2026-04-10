@@ -24,7 +24,7 @@ Moving "Hello World"
 
 
 <br>
-<ul> Activity 2 
+- Activity 2 
 
  <pre>
 🎮 Controls: <br>

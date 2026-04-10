@@ -23,3 +23,8 @@ Moving "Hello World"
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bd2f36ec-7b1c-45e5-9043-a9dd0355b201" />
 
 
+- Activity 2
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/983726c3-7205-4b51-a316-327039385704" />
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/715e5ff7-d888-4c94-a9d3-797c88d2ab79" />
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/49e373a7-573b-4cdb-bbc9-27e794ed6379" />
+

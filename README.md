@@ -24,7 +24,7 @@ Moving "Hello World"
 
 
 - Activity 2
- <br>
+
  <pre>
 🎮 Controls: <br>
      Movement: WASD / Arrow Keys <br>

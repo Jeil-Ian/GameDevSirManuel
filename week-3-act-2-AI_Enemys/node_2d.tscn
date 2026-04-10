@@ -1,0 +1,34 @@
+[gd_scene format=3 uid="uid://lcwwp74fk68f"]
+
+[ext_resource type="Texture2D" uid="uid://c2po30wim560r" path="res://icon.svg" id="1_0e48y"]
+[ext_resource type="Script" uid="uid://blrdwj8tbag2a" path="res://player.gd" id="1_epypp"]
+[ext_resource type="Script" uid="uid://cyj5y2o02inda" path="res://enemy.gd" id="2_epypp"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_0hol4"]
+size = Vector2(129.5, 128)
+
+[node name="Node2D" type="Node2D" unique_id=1472758413]
+
+[node name="Player" type="CharacterBody2D" parent="." unique_id=2096540589]
+position = Vector2(137, 255)
+script = ExtResource("1_epypp")
+
+[node name="Sprite2D" type="Sprite2D" parent="Player" unique_id=1254259781]
+texture = ExtResource("1_0e48y")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player" unique_id=1790303550]
+position = Vector2(0.25, 0)
+shape = SubResource("RectangleShape2D_0hol4")
+
+[node name="Enemy" type="CharacterBody2D" parent="." unique_id=2060655723]
+modulate = Color(0.77725124, 0, 0.046516523, 1)
+self_modulate = Color(0.2655284, 0.013953944, 0.022712203, 1)
+position = Vector2(851, 338)
+script = ExtResource("2_epypp")
+
+[node name="Sprite2D" type="Sprite2D" parent="Enemy" unique_id=1206049036]
+texture = ExtResource("1_0e48y")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Enemy" unique_id=885103793]
+position = Vector2(0.25, 0)
+shape = SubResource("RectangleShape2D_0hol4")

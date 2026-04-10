@@ -28,7 +28,7 @@ Moving "Hello World"
  <pre>
 🎮 Controls: <br>
      Movement: WASD / Arrow Keys <br>
-     Shoot: Left Click <br>
+     Shoot: Left Click 
  
 </pre>
   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/983726c3-7205-4b51-a316-327039385704" />

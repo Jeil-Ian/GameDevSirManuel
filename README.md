@@ -40,3 +40,11 @@ Moving "Hello World"
 
 # Week 3
 - Activity 2
+Making an AI enemy that follows players
+ <pre>
+🎮 Controls: <br>
+     Movement: WASD
+</pre>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ab1e777c-accb-4f64-b146-c6c5765384ea" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/86ff18d6-cbcd-404e-82fd-eef40099e996" />
+
